@@ -3,6 +3,13 @@ El contenido que veremos a lo largo del curso viene principalmente del repositor
 
 ## Contenido
 ```
-Tema 1. Sintaxis Básica
-   └── Declaración de variables y tipos de datos
+1. Bases del lenguaje
+   └── Sintáxis básica, variables y tipos
+   └── Conversión de tipos y coerción de datos
+   └── Inserción y carga de JavaScript en HTML
+   └── Operadores de comparación, lógicos y nullish coalescing
+   └── Funciones: declaradas, flecha, callbacks y closures
+   └── Estructuras de control: condicionales, bucles y código limpio
+   └── Ámbito (scope), modo estricto y uso de this
+   └──
 ```
