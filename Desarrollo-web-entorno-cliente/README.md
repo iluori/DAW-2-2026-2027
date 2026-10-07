@@ -13,3 +13,7 @@ El contenido que veremos a lo largo del curso viene principalmente del repositor
    └── Ámbito (scope), modo estricto y uso de this
    └──
 ```
+
+## Ejercicios y explicaciones subidas a Github
+   └── Semana 1
+      └── live.md
