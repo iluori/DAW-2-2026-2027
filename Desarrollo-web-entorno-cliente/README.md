@@ -15,5 +15,7 @@ El contenido que veremos a lo largo del curso viene principalmente del repositor
 ```
 
 ## Ejercicios y explicaciones subidas a Github
+```
    └── Semana 1
       └── live.md
+```
