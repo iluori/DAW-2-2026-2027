@@ -18,4 +18,6 @@ El contenido que veremos a lo largo del curso viene principalmente del repositor
 ```
    └── Semana 1
       └── live.md
+  └── Semana 2
+      └── live2.md
 ```
